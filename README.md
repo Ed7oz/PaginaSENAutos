@@ -1,0 +1,2 @@
+# PaginaSENAutos
+Página de prueba.
